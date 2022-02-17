@@ -69,4 +69,13 @@ python main_lincls.py \
   --dist-url 'tcp://localhost:10001' --multiprocessing-distributed --world-size 1 --rank 0 \
   [your imagenet-folder with train and val folders]
 ```
+# #작성 논문 
 
+
+<img width="673" alt="스크린샷 2022-02-17 오후 4 10 20" src="https://user-images.githubusercontent.com/75043852/154423949-5ecacd0a-fb98-4be3-a562-d034ab07f36b.png">
+
+<img width="674" alt="스크린샷 2022-02-17 오후 4 10 35" src="https://user-images.githubusercontent.com/75043852/154423965-bf6665c6-7ee3-4631-9411-4f4f9b3ee7c5.png">
+
+<img width="674" alt="스크린샷 2022-02-17 오후 4 10 49" src="https://user-images.githubusercontent.com/75043852/154423977-4c7f16b0-c680-46bd-be6e-fcf3a0e98675.png">
+
+<img width="675" alt="스크린샷 2022-02-17 오후 4 11 01" src="https://user-images.githubusercontent.com/75043852/154423983-c25c04a0-b701-4037-bc1e-e6e91092ad86.png">
